@@ -1,0 +1,23 @@
+language: python
+python:
+  - 2.7
+  - 3.6
+
+os:
+  - linux
+  - osx
+
+install:
+  - pip install --upgrade pip
+  - pip install coveralls
+
+script:
+  - coverage run --source=dialex setup.py test
+
+cache:
+  directories:
+    - "$HOME/.cache/pip"
+    - "$HOME/.pyenv"
+
+sudo: false
+after_script: coveralls
