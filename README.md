@@ -15,3 +15,17 @@ $ pip install -U dialex
 from dialex import dialex
 dial = dialex.Dialex('apiKey')
 ```  
+
+## Developing  
+
+Clone using git:  
+`git clone git@github.com:HyperLab-Solutions-Sdn-Bhd/dialex-sdk-python.git`  
+
+Install pipenv:  
+`pip install -U pipenv`  
+
+Install dependencies:  
+`pipenv install --dev`  
+
+Run tests:  
+`python setup.py test`  
