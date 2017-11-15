@@ -1,6 +1,14 @@
 ## Change Log
 
-### upcoming (2017/11/03 05:40 +00:00)
+### v1.0.0 (2017/11/15 04:46 +00:00)
+- [8d2b813](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-python/commit/8d2b813d4531a7f604ff45e1eea00907cbd80865) Update to production endpoint (@riyadhalnur)
+- [0ddff14](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-python/commit/0ddff1427307871092093964b576ca55458f1171) Add instructions for developing in README (@riyadhalnur)
+- [add48ff](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-python/commit/add48ff0776d5db1ad349c4e8d1f86c844f6a18d) Add vulnerabilities badge (@riyadhalnur)
+
+### v0.5.0b0 (2017/11/03 06:00 +00:00)
+- [92732dd](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-python/commit/92732ddaa8a1d84f707990d3aa62666a0f18ab98) Remove osx build on travis. No suppprot for it yet (@riyadhalnur)
+- [b303fec](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-python/commit/b303feca0f3e61e9bd6f8fd7f9dffacfe1029fbe) Update MANIFEST.in (@riyadhalnur)
+- [c97bdee](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-python/commit/c97bdee7301837ad0d6df94141da08319ebb3b5b) Generate CHANGELOG (@riyadhalnur)
 - [f1bb1a5](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-python/commit/f1bb1a5d7dffd8d3ecb82fd3fd6af3c93a475b30) Update README (@riyadhalnur)
 - [4d53df0](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-python/commit/4d53df0fa316aca1891aa0a53376352df72b2171) Travis configuration (@riyadhalnur)
 - [222b6b3](https://github.com/HyperLab-Solutions-Sdn-Bhd/dialex-sdk-python/commit/222b6b3e57455ec3777b53eddd501c41e3af9f0c) Setup script (@riyadhalnur)
