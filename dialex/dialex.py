@@ -36,7 +36,7 @@ class Dialex(object):
         @param key Valid API key to use with the service
         """
         self.key = key
-        self.url = 'https://dialexherok.herokuapp.com'
+        self.url = 'https://api.dialex.xyz'
 
     def transform(self, data, lang):
         """

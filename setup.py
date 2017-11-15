@@ -15,7 +15,7 @@ except (IOError, ImportError):
 
 setup(
     name='dialex',
-    version='0.5.0b0',
+    version='1.0.0',
     license='MIT License',
     packages=['dialex'],
     include_package_data=True,
@@ -44,6 +44,6 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Topic :: Internet',
         'Topic :: Internet :: WWW/HTTP',
-        'Development Status :: 4 - Beta',
+        'Development Status :: 5 - Production/Stable',
     ]
 )
